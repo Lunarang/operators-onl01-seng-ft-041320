@@ -9,7 +9,7 @@ end
 
 
 def not_safe?(speed)
-	if not_safe? ? sumthin  : sumthin
+	if speed ? ( < 40 || > 60)  : 
 end
 	
 
